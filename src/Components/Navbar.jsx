@@ -22,9 +22,14 @@ function Navbar() {
         <Link to="/contact" className={location.pathname === '/contact' ? 'active' : ''}>
           Contact
         </Link>
-        <Link to="/resume" className={location.pathname === '/resume' ? 'active' : ''}>
+        <a 
+          href="/Lavishka_s_resume.pdf" 
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
           Resume
-        </Link>
+        </a>
+
       </div>
     </nav>
   );

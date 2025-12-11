@@ -6,11 +6,9 @@ function Home() {
       <div className="text">
         <h2>Hi, I'm Lavishka 👋</h2>
         <p>
-          I enjoy working on frontend development and designing intuitive user interfaces. 
-          I love experimenting with new technologies and solving problems through creative approaches. 
-          I'm organized, curious, and enjoy working on projects that challenge me to grow. 
-          My goal is to become a strong frontend developer and continue building meaningful, 
-          user-focused digital experiences.
+        I’m a passionate full-stack developer who enjoys turning ideas into reliable and scalable applications.
+        My strengths include frontend development, backend development, database design, DSA, and object-oriented programming.
+        I’m continuously improving my skills by building projects, understanding system architecture, and learning how real-world applications work end-to-end.
         </p>
         
         <div className="education">
