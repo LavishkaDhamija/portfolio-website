@@ -4,29 +4,30 @@ function Projects() {
       title: 'Optimised Load Balancing (OLB) Simulation for Smart Healthcare IoT',
       description: 'A modularized, high-fidelity simulation of the Optimised Load Balancing (OLB) algorithm for IoT-enabled smart healthcare systems, built on the YAFS framework.',
       techStack: ['Python', 'YAFS', 'Numpy'],
-      image: 'images/edge_project.jpg',
-      githubLink: 'https://github.com/LavishkaDhamija/proofread_eval_pipeline'
+      image: '/portfolio-website/images/edge_project.jpg',
+      githubLink: 'https://github.com/23CSE362-edge-computing-2025-26-odd/capstone-project-10-bitmistake'
     },
      {
       title: 'Proofread_eval_pipeline',
       description: 'A text correction pipeline with synthetic noise generation, spelling correction (PySpellChecker), grammar correction (FLAN-T5), and custom evaluation metrics (EM, NEM, Error Ratio, Good/Bad Ratio, Diff Meaning Ratio).',
       techStack: ['Pandas', 'NLTK/spacy','Python'],
-      image: 'images/nlp.png',
-      githubLink: 'https://github.com/23CSE362-edge-computing-2025-26-odd/capstone-project-10-bitmistake'
+      image: '/portfolio-website/images/nlp.png',
+      githubLink: 'https://github.com/LavishkaDhamija/proofread_eval_pipeline'
+      
     },
     {
       title: 'Cache System With Access Pattern',
       description: 'Explored various cache optimization techniques that can help you unlock the full potential of your caching infrastructure and drive tangible business results.',
       techStack: ['DLL','HashMap'],
-      image: 'images/dsa.jpg',
-      githubLink: '#',
+      image: '/portfolio-website/images/dsa.jpg',
+      githubLink: 'https://github.com/LavishkaDhamija/DSA-Second-Year-Project',
       
     },
     {
       title: 'Proximity-Based Access Alarm System',
       description: 'An STM32F401CCU6-based security system that detects unauthorized approach using ultrasonic sensing, providing multi-stage visual and audible alerts with real-time status display.',
       techStack: ['C'],
-      image: 'images/embedded.jpg',
+      image: '/portfolio-website/images/embedded.jpg',
       githubLink: 'https://github.com/LavishkaDhamija/proximity-access-alarm',
       
     },
@@ -34,7 +35,7 @@ function Projects() {
       title: 'Portfolio Website',
       description: 'A responsive personal portfolio website built with React. Features include smooth navigation, mobile-friendly design, and interactive sections.',
       techStack: ['React', 'CSS', 'JavaScript'],
-      image: 'images/port.png',
+      image: '/portfolio-website/images/port.png',
       githubLink: 'https://github.com/LavishkaDhamija/portfolio-website',
       
     },
@@ -42,8 +43,8 @@ function Projects() {
       title: 'Tic-Tac-Toe Game',
       //description: 'A modularized, high-fidelity simulation of the Optimised Load Balancing (OLB) algorithm for IoT-enabled smart healthcare systems, built on the YAFS (Yet Another Fog Simulator) framework.',
       techStack:['React', 'CSS', 'JavaScript'] ,
-      image: 'images/tic.jpg',
-      githubLink: 'https://github.com/23CSE362-edge-computing-2025-26-odd/capstone-project-10-bitmistake'
+      image: '/portfolio-website/images/tic.jpg',
+      githubLink: 'https://github.com/LavishkaDhamija/tic-tac-toe'
     }
   ];
 
