@@ -23,7 +23,7 @@ function Navbar() {
           Contact
         </Link>
         <a 
-          href="/Lavishka_s_resume.pdf" 
+          href="/portfolio-website/Lavishka_s_resume.pdf" 
           target="_blank" 
           rel="noopener noreferrer"
         >
