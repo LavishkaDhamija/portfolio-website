@@ -253,8 +253,8 @@ nav .right a.active::before {
 }
 
 .hero-section .headshot img {
-  width: 270px;
-  height : 270px;
+  width: 250px;
+  height : 250px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 8px 30px rgba(201, 149, 119, 0.3);
