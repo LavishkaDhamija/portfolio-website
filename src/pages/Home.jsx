@@ -43,7 +43,7 @@ function Home() {
       </div>
 
       <div className="headshot">
-        <img src="/portfolio-website/images/myProfile.webp" alt="Lavishka's profile" />
+        <img src="/portfolio-website/images/final.jpeg" alt="Lavishka's profile" />
       </div>
     </section>
   );
