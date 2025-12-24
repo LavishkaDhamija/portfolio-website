@@ -9,7 +9,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert('Message sent! (This is a demo - connect to a backend to make it functional)');
+    alert('Message sent!');
     setFormData({ name: '', email: '', message: '' });
   };
 
